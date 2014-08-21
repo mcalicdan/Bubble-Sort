@@ -1,0 +1,27 @@
+
+h1 {
+  text-align: center;
+  font-size: 90px;
+  color: red;
+  border: solid;
+}
+
+div {
+    border: 2px, solid;
+    border-radius: 25px;
+    text-align: center;
+}
+#city1 {
+  color: black;
+}
+#city2 {
+  color: black;
+}
+#city3 {
+  color: black;
+}
+#city4 {
+  color: black;
+}
+
+
